@@ -46,6 +46,7 @@ graph TD
     class Preprocess,Layout vision;
     class OCR,Reasoning nlp;
     class I,Q input;
+```
 
 ## 🛠️ Tech Stack
 
